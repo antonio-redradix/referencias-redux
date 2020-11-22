@@ -1,0 +1,20 @@
+
+body{
+  margin: 5px;
+}
+
+input{
+  margin: 5px 0px;
+}
+
+.error{
+  color: red;
+}
+
+.red-border{
+  border: 2px solid red;
+}
+
+.underline{
+  text-decoration: underline;
+}
